@@ -2,11 +2,11 @@ function happyHolidays(string){
   return 'Happy holidays!';
 }
 function happyHolidaysTo(name){
-  console.log('Happy holidays, ${name}!');
+  return 'Happy holidays, ${name}!';
   }
 function happyHolidayTo(holiday, name){
-  console.log('${holiday}, ${name}!');
+  return '${holiday}, ${name}!';
 }
 function holidayCountdown(holiday, days){
-  console.log('Its ${days} days until ${holiday}!');
+  return 'Its ${days} days until ${holiday}!';
 }
