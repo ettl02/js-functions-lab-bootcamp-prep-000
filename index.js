@@ -1,5 +1,5 @@
 function happyHolidays (string){
   return "Happy holidays!"
 }
-function happyHolidaysTo(nameOfPerson)
-  return '${nameOfPerson}'
+function happyHolidaysTo(name)
+  return '$Happy holidays, {name!}'
